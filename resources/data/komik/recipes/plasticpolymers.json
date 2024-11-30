@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "plastic_polymer",
-  "count": 1,
-  "ingredient": {
-    "item": "komik:plasticfibers"
-  },
-  "result": "komik:plasticpolymer"
-}
