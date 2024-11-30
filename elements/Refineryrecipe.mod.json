@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "machines",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "CUSTOM:Crudeoil.bucket"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Oildisposal"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Refinery"
+    },
+    "name": "refinery_recipe",
+    "namespace": "mod"
+  }
+}

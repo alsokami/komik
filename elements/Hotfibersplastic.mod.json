@@ -1,0 +1,22 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "hot_plastic_fibers",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 120,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Plastics"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Plasticfibers"
+    },
+    "name": "hotfibersplastic",
+    "namespace": "mod"
+  }
+}

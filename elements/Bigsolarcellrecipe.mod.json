@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "big_solar_cell",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymer"
+      },
+      {
+        "value": "CUSTOM:Silver"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymer"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bigsolarcell"
+    },
+    "name": "bigsolarcellrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_fv": 69,
+  "_type": "fluid",
+  "definition": {
+    "name": "Crude Oil",
+    "bucketName": "Oil Bucket",
+    "textureStill": "oolifluid",
+    "textureFlowing": "oolifluid",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 65,
+    "levelDecrease": 3,
+    "slopeFindDistance": 4,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 0.9,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1189,
+    "temperature": 311,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "minecraft:tadpole_bucket",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Kmaterials"
+      }
+    ],
+    "emptySound": {
+      "value": "item.bucket.empty_axolotl"
+    },
+    "rarity": "UNCOMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 80.0,
+    "luminance": 0,
+    "lightOpacity": 9,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 31,
+    "fireSpreadSpeed": 7,
+    "colorOnMap": "BLACK_TERRACOTTA",
+    "onEntityCollides": {
+      "name": "CrudeoilMobplayerCollidesBlock"
+    }
+  }
+}

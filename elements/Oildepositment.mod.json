@@ -1,0 +1,112 @@
+{
+  "_fv": 69,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oil_deposit",
+          "text": {
+            "fixedValue": "Oil Deposit"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 182,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_an_oil_deposit_is_a_machine_used",
+          "text": {
+            "fixedValue": "An oil deposit is a machine "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 139,
+          "y": 76
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_used_to_deposite_crude_oil",
+          "text": {
+            "fixedValue": "used to deposite crude oil."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 143,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_could_be_for_storage",
+          "text": {
+            "fixedValue": "This could be for storage"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 149,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_or_refining",
+          "text": {
+            "fixedValue": "or refining."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 179,
+          "y": 118
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_understood",
+          "text": "Understood.",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Closegui"
+          },
+          "width": 82,
+          "height": 20,
+          "x": 171,
+          "y": 155
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
