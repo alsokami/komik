@@ -4,6 +4,8 @@ Modrinth page: https://modrinth.com/mod/komik
 
 Komik: The all around technology mod which improves vanilla minecraft like non-other. From eco-friendly energy to complex machinery, komik has it all! Currently, Komik is in massive work in progress open-Alpha right now. So it only has a few features. But give it time, and you will see, that it will revolutionise minecraft.
 
+![KOMIK LOGO](images/assets/komik.png)
+
 ## Open Source
 
 Komik is currently an open-source minecraft mod (appart from files that need to be ignored for security reasons). We are always open for feedback and issue tracking. If you find anything you want to report, please open the [Github page](https://github.com/alsokami/komik/tree/main).
