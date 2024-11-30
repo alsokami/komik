@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "komik:block/silveroreblock",
+    "up": "komik:block/silveroreblock",
+    "north": "komik:block/silveroreblock",
+    "east": "komik:block/silveroreblock",
+    "south": "komik:block/silveroreblock",
+    "west": "komik:block/silveroreblock",
+    "particle": "komik:block/silveroreblock"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "hot_plastic_fibers",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "komik:plastics"
+  },
+  "result": "komik:plasticfibers"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oil_disposal_recipe",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "komik:crudeoil_bucket"
+    },
+    "c": {
+      "item": "minecraft:hopper"
+    },
+    "d": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "komik:oildisposal",
+    "count": 1
+  }
+}

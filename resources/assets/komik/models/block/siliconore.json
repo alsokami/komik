@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "komik:block/siliconeore",
+    "up": "komik:block/siliconeore",
+    "north": "komik:block/siliconeore",
+    "east": "komik:block/siliconeore",
+    "south": "komik:block/siliconeore",
+    "west": "komik:block/siliconeore",
+    "particle": "komik:block/siliconeore"
+  },
+  "render_type": "solid"
+}

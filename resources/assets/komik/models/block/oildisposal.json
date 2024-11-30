@@ -1,0 +1,12 @@
+{
+  "parent": "komik:custom/refinery-good",
+  "textures": {
+    "all": "komik:block/oil",
+    "particle": "komik:block/oil",
+    "2": "komik:block/nmewopen",
+    "3": "komik:block/nmewopen",
+    "4": "komik:block/oil",
+    "missing": "komik:block/nmewopen"
+  },
+  "render_type": "solid"
+}
