@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tank",
+        "1": "faucet",
+        "2": "faucet",
+        "3": "texture",
+        "missing": "tank"
+      },
+      "name": "default"
+    }
+  }
+}
