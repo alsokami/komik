@@ -19,6 +19,14 @@ Komik as of right now only has a handful of features. The date of today, novembe
 To install Komik, you must get the file from the releases/versions tab (depending on if you are on GitHub or Modrinth right now, regardless they both get updates the same),
 then navigate to your .minecraft folder and put the Komik.jar file into your mods folder. The minecraft folder will be placed differently on different operating systems, so mind that.
 
+## Wiki:
+
+Komik has a wiki that includes (almost) all features of the mod. You can find it on the github page; https://github.com/alsokami/komik/wiki 
+
+Here is a screenshot of it in action:
+![image](https://github.com/user-attachments/assets/078c45f9-3a0c-4586-9335-7ec8ae00508a)
+
+
 ## Feedback!
 
 I, alsokami, am currently the only one making this mod right now. I have made everything by myself. As much as I have many ideas, I need yours! I would love to hear out from you. Yes, you! The simple mod user that wants to enjoy simple minecraft technology. Submit your ideas on the Github Forums of the mod's page, and I'll see you there :)
