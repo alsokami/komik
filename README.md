@@ -24,7 +24,7 @@ then navigate to your .minecraft folder and put the Komik.jar file into your mod
 Komik has a wiki that includes (almost) all features of the mod. You can find it on the github page; https://github.com/alsokami/komik/wiki 
 
 Here is a screenshot of it in action:
-![image](https://github.com/user-attachments/assets/078c45f9-3a0c-4586-9335-7ec8ae00508a)
+![Shot-2024-12-01-111704](https://github.com/user-attachments/assets/59172c2e-683c-4bba-9d2a-a2cc2bae4d9d)
 
 
 ## Feedback!
