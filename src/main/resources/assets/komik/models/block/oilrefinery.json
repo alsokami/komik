@@ -1,0 +1,12 @@
+{
+  "parent": "komik:custom/refinery-good",
+  "textures": {
+    "all": "komik:block/refinery",
+    "particle": "minecraft:block/bedrock",
+    "2": "komik:block/gray",
+    "3": "komik:block/gray",
+    "4": "komik:block/oiltexture2",
+    "missing": "komik:block/gray"
+  },
+  "render_type": "solid"
+}

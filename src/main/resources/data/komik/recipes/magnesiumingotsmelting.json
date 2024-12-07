@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "komik",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "komik:magnesium_dust"
+  },
+  "result": "komik:magnesium_ingot"
+}

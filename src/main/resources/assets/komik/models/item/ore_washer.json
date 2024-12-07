@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "komik:item/orewasher_-_07-12-2024_11-30-02"
+  },
+  "render_type": "translucent"
+}
