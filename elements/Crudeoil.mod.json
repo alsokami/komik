@@ -1,0 +1,54 @@
+{
+  "_fv": 69,
+  "_type": "fluid",
+  "definition": {
+    "name": "Crude Oil",
+    "bucketName": "§5Oil Bucket",
+    "textureStill": "oil",
+    "textureFlowing": "oil",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "BUBBLE_POP"
+    },
+    "flowStrength": 0.4,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "oilbucket",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Kminerals"
+      }
+    ],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "EPIC",
+    "specialInformation": {
+      "fixedValue": [
+        "§7Fluid: §bOil",
+        "§r",
+        "§7This bucket contains",
+        "§e🔋 Crude Oil§7.",
+        "§r",
+        "§6§lLEGENDARY FLUID BUCKET"
+      ]
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
+  }
+}
