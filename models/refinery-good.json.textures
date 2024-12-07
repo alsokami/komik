@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "gray",
+        "3": "gray",
+        "4": "oiltexture2",
+        "missing": "gray"
+      },
+      "name": "default"
+    }
+  }
+}

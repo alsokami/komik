@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gltf_embedded_0",
+        "1": "blue",
+        "2": "yellow"
+      },
+      "name": "default"
+    }
+  }
+}
