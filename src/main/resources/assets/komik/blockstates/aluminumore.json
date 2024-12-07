@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "komik:block/aluminumore"
+    },
+    "facing=east": {
+      "model": "komik:block/aluminumore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "komik:block/aluminumore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "komik:block/aluminumore",
+      "y": 270
+    }
+  }
+}

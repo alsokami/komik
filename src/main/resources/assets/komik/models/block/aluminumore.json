@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "komik:block/aluminumore1",
+    "up": "komik:block/aluminumore1",
+    "north": "komik:block/aluminumore2",
+    "east": "komik:block/aluminumore1",
+    "south": "komik:block/aluminumore2",
+    "west": "komik:block/aluminumore1",
+    "particle": "komik:block/aluminumore1"
+  },
+  "render_type": "solid"
+}

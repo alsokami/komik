@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gray",
+        "1": "gray",
+        "3": "pink",
+        "missing": "gray"
+      },
+      "name": "default"
+    }
+  }
+}

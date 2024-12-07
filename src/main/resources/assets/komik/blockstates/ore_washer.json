@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "komik:block/ore_washer"
+    },
+    "facing=east": {
+      "model": "komik:block/ore_washer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "komik:block/ore_washer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "komik:block/ore_washer",
+      "y": 270
+    }
+  }
+}

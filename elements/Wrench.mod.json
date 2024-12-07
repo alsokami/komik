@@ -1,0 +1,46 @@
+{
+  "_fv": 69,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Special",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "wrench",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Wrench",
+    "specialInformation": {
+      "fixedValue": [
+        "§7Damage: §c+5",
+        "§r",
+        "§7A tool used to break,",
+        "§7adjust, or modify different",
+        "§7machinery.",
+        "§r",
+        "§a§lUNCOMMON TOOL"
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      },
+      {
+        "value": "CUSTOM:Ktools"
+      }
+    ],
+    "efficiency": 6.5,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 5.0,
+    "usageCount": 200,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

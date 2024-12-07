@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "rawaluminum",
+    "texture": "aluminum",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
@@ -11,10 +11,10 @@
     "rarity": "COMMON",
     "creativeTabs": [
       {
-        "value": "CUSTOM:Kmaterials"
+        "value": "CUSTOM:Kminerals"
       }
     ],
-    "stackSize": 56,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
@@ -29,7 +29,14 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7The most abundant",
+        "§7ore on earth. The",
+        "§7cheapest one aswell.",
+        "§8§oYet, it's so useful!",
+        "§r",
+        "§f§lVERY COMMON MINERAL"
+      ]
     },
     "glowCondition": {
       "fixedValue": false
@@ -37,9 +44,6 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedInAir": {
-      "name": "AluminumRightclicked"
-    },
     "enableRanged": false,
     "shootConstantly": false,
     "rangedItemChargesPower": false,

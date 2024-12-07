@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "komik:item/refinery"
+  },
+  "render_type": "translucent"
+}

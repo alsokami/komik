@@ -5,33 +5,10 @@
     "type": "Block",
     "pools": [
       {
-        "minrolls": 4,
-        "maxrolls": 9,
-        "minbonusrolls": 2,
-        "maxbonusrolls": 3,
-        "hasbonusrolls": true,
-        "entries": [
-          {
-            "type": "item",
-            "item": {
-              "value": "CUSTOM:Aluminum"
-            },
-            "weight": 2,
-            "minCount": 4,
-            "maxCount": 7,
-            "minEnchantmentLevel": 0,
-            "maxEnchantmentLevel": 0,
-            "affectedByFortune": true,
-            "explosionDecay": false,
-            "silkTouchMode": 0
-          }
-        ]
-      },
-      {
-        "minrolls": 4,
-        "maxrolls": 5,
-        "minbonusrolls": 2,
-        "maxbonusrolls": 2,
+        "minrolls": 1,
+        "maxrolls": 2,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
         "hasbonusrolls": false,
         "entries": [
           {
@@ -41,12 +18,26 @@
             },
             "weight": 1,
             "minCount": 0,
-            "maxCount": 3,
+            "maxCount": 2,
+            "minEnchantmentLevel": 0,
+            "maxEnchantmentLevel": 0,
+            "affectedByFortune": false,
+            "explosionDecay": false,
+            "silkTouchMode": 2
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Aluminum"
+            },
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 2,
             "minEnchantmentLevel": 0,
             "maxEnchantmentLevel": 0,
             "affectedByFortune": true,
-            "explosionDecay": true,
-            "silkTouchMode": 2
+            "explosionDecay": false,
+            "silkTouchMode": 0
           }
         ]
       }

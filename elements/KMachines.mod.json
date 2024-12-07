@@ -1,0 +1,11 @@
+{
+  "_fv": 69,
+  "_type": "tab",
+  "definition": {
+    "name": "K Machines",
+    "icon": {
+      "value": "CUSTOM:Solarpanel400w"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "komik:custom/orewasher",
+  "textures": {
+    "all": "komik:block/orewasher_-_07-12-2024_11-30-02",
+    "particle": "minecraft:block/campfire_log",
+    "0": "komik:block/gray",
+    "1": "komik:block/gray",
+    "3": "komik:block/pink",
+    "missing": "komik:block/gray"
+  },
+  "render_type": "solid"
+}

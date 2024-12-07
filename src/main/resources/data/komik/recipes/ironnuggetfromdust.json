@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "komik",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "komik:irondust"
+  },
+  "result": "minecraft:iron_nugget"
+}

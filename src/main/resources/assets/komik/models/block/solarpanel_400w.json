@@ -1,0 +1,11 @@
+{
+  "parent": "komik:custom/solarpanel",
+  "textures": {
+    "all": "komik:block/solarpanel",
+    "particle": "minecraft:block/beacon",
+    "0": "komik:block/gltf_embedded_0",
+    "1": "komik:block/blue",
+    "2": "komik:block/yellow"
+  },
+  "render_type": "solid"
+}

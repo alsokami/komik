@@ -3,9 +3,8 @@
     "default": {
       "map": {
         "0": "gltf_embedded_0",
-        "1": "docume",
-        "2": "yellow",
-        "3": "yellow"
+        "1": "blue",
+        "2": "yellow"
       },
       "name": "default"
     }
