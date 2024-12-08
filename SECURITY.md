@@ -6,6 +6,7 @@ try not to use that version.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.1     | ✅                |
 | 1.0.0   | :white_check_mark: | -- Alpha version, first release. November 30, 2024.
 
 ## Reporting
