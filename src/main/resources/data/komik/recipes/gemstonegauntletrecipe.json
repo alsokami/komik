@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "komik:enchantedgoldblock"
+    },
+    "b": {
+      "item": "komik:perfectruby"
+    }
+  },
+  "result": {
+    "item": "komik:gemstonegauntlet",
+    "count": 1
+  }
+}

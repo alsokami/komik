@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "komik:solarcell"
+    },
+    "b": {
+      "item": "komik:plasticpolymers"
+    },
+    "c": {
+      "item": "komik:silicon"
+    },
+    "d": {
+      "item": "komik:aluminum"
+    }
+  },
+  "result": {
+    "item": "komik:bigsolarcell",
+    "count": 1
+  }
+}

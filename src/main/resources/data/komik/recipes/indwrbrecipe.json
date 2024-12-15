@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "aca",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_block"
+    },
+    "b": {
+      "item": "komik:wrench"
+    },
+    "c": {
+      "item": "minecraft:crafting_table"
+    },
+    "d": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "komik:industrial_workbench",
+    "count": 1
+  }
+}

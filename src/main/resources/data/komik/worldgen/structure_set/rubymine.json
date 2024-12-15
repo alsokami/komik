@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "komik:rubymine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 9,
+    "salt": 2133499301
+  }
+}

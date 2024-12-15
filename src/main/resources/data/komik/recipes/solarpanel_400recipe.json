@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "komik:bigsolarcell"
+    },
+    "b": {
+      "item": "komik:silicon"
+    },
+    "c": {
+      "item": "komik:silver"
+    },
+    "d": {
+      "item": "komik:aluminum"
+    },
+    "e": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "komik:solarpanel_400w",
+    "count": 1
+  }
+}
