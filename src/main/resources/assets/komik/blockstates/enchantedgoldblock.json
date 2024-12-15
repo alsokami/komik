@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "komik:block/enchantedgoldblock"
+    },
+    "facing=east": {
+      "model": "komik:block/enchantedgoldblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "komik:block/enchantedgoldblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "komik:block/enchantedgoldblock",
+      "y": 270
+    }
+  }
+}
