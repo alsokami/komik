@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
-    "group": "big_solar_cell",
+    "group": "komik",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
@@ -21,19 +21,19 @@
         "value": "CUSTOM:Solarcell"
       },
       {
-        "value": "CUSTOM:Plasticpolymer"
+        "value": "CUSTOM:Plasticpolymers"
       },
       {
-        "value": "CUSTOM:Silver"
+        "value": "CUSTOM:Silicon"
       },
       {
-        "value": "CUSTOM:Plasticpolymer"
+        "value": "CUSTOM:Plasticpolymers"
       },
       {
         "value": "CUSTOM:Aluminum"
       },
       {
-        "value": "CUSTOM:Silicon"
+        "value": "CUSTOM:Aluminum"
       },
       {
         "value": "CUSTOM:Aluminum"

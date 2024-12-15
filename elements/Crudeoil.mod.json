@@ -3,48 +3,54 @@
   "_type": "fluid",
   "definition": {
     "name": "Crude Oil",
-    "bucketName": "Oil Bucket",
-    "textureStill": "oolifluid",
-    "textureFlowing": "oolifluid",
+    "bucketName": "§5Oil Bucket",
+    "textureStill": "oil",
+    "textureFlowing": "oil",
     "tintType": "No tint",
     "canMultiply": false,
-    "flowRate": 65,
-    "levelDecrease": 3,
+    "flowRate": 5,
+    "levelDecrease": 1,
     "slopeFindDistance": 4,
     "spawnParticles": true,
     "dripParticle": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "BUBBLE_POP"
     },
-    "flowStrength": 0.9,
+    "flowStrength": 0.4,
     "luminosity": 0,
     "density": 1000,
-    "viscosity": 1189,
-    "temperature": 311,
+    "viscosity": 1000,
+    "temperature": 300,
     "type": "WATER",
     "generateBucket": true,
-    "textureBucket": "minecraft:tadpole_bucket",
+    "textureBucket": "oilbucket",
     "creativeTabs": [
       {
-        "value": "CUSTOM:Kmaterials"
+        "value": "CUSTOM:Kminerals"
       }
     ],
     "emptySound": {
-      "value": "item.bucket.empty_axolotl"
+      "value": ""
     },
-    "rarity": "UNCOMMON",
+    "rarity": "COMMON",
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7Fluid: §aOil",
+        "§r",
+        "§7This bucket contains",
+        "§7the liquid every",
+        "§7american is after,",
+        "§7Crude oil.",
+        "§r",
+        "§6§lLEGENDARY FLUID"
+      ]
     },
-    "resistance": 80.0,
+    "resistance": 100.0,
     "luminance": 0,
-    "lightOpacity": 9,
+    "lightOpacity": 1,
     "emissiveRendering": false,
     "tickRate": 0,
-    "flammability": 31,
-    "fireSpreadSpeed": 7,
-    "colorOnMap": "BLACK_TERRACOTTA",
-    "onEntityCollides": {
-      "name": "CrudeoilMobplayerCollidesBlock"
-    }
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
   }
 }

@@ -7,9 +7,13 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Silver Nuggets",
+    "name": "Silver",
     "rarity": "COMMON",
-    "creativeTabs": [],
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Kminerals"
+      }
+    ],
     "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
@@ -25,7 +29,15 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7A rare ore that",
+        "§7can generate it's ",
+        "§7own energy. Used",
+        "§7for PV cells.",
+        "§8§oYou can make money!",
+        "§r",
+        "§9§lRARE MINERAL"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

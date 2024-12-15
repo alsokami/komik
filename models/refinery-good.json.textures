@@ -2,10 +2,10 @@
   "mappings": {
     "default": {
       "map": {
-        "2": "nmewopen",
-        "3": "nmewopen",
-        "4": "oil",
-        "missing": "nmewopen"
+        "2": "gray",
+        "3": "gray",
+        "4": "oiltexture2",
+        "missing": "gray"
       },
       "name": "default"
     }

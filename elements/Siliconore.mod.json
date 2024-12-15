@@ -2,15 +2,15 @@
   "_fv": 69,
   "_type": "block",
   "definition": {
-    "texture": "siliconeore",
-    "textureTop": "siliconeore",
-    "textureLeft": "siliconeore",
-    "textureFront": "siliconeore",
-    "textureRight": "siliconeore",
-    "textureBack": "siliconeore",
+    "texture": "siliconore1",
+    "textureTop": "siliconore3",
+    "textureLeft": "siliconore2",
+    "textureFront": "siliconore2",
+    "textureRight": "siliconore1",
+    "textureBack": "siliconore3",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -36,23 +36,33 @@
     "customProperties": [],
     "name": "Silicon Ore",
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7An ore that",
+        "§7drops raw silica.",
+        "§8§oHow do you have",
+        "§8§othe raw ore..?",
+        "§r",
+        "§f§lCOMMON MINERAL ORE"
+      ]
     },
-    "hardness": 3.25,
-    "resistance": 15.5,
+    "hardness": 3.6,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTabs": [
       {
-        "value": "CUSTOM:Kmaterials"
+        "value": "CUSTOM:Kminerals"
+      },
+      {
+        "value": "DECORATIONS"
       }
     ],
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Silicon"
+      "value": ""
     },
     "dropAmount": 1,
-    "useLootTableForDrops": false,
+    "useLootTableForDrops": true,
     "requiresCorrectTool": true,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -64,9 +74,9 @@
     "tickRate": 0,
     "tickRandomly": false,
     "isReplaceable": false,
-    "canProvidePower": true,
+    "canProvidePower": false,
     "emittedRedstonePower": {
-      "fixedValue": 3.0
+      "fixedValue": 15.0
     },
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
@@ -84,7 +94,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "DEEPSLATE_BRICKS"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -122,9 +132,6 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onRightClicked": {
-      "name": "SiliconoreOnBlockRightClicked"
-    },
     "generateFeature": true,
     "restrictionBiomes": [],
     "blocksToReplace": [
@@ -133,9 +140,9 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 13,
-    "frequencyOnChunk": 8,
-    "minGenerateHeight": -54,
-    "maxGenerateHeight": 19
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": -57,
+    "maxGenerateHeight": 64
   }
 }

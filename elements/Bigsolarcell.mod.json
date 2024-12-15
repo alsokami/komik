@@ -7,14 +7,14 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Big Solar Cell",
-    "rarity": "RARE",
+    "name": "Big PV Cell",
+    "rarity": "COMMON",
     "creativeTabs": [
       {
         "value": "CUSTOM:Kmaterials"
       }
     ],
-    "stackSize": 32,
+    "stackSize": 16,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
@@ -29,10 +29,18 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7A group of small",
+        "§7PV cells used to make",
+        "§7a 400W Solar panel.",
+        "§8§oYou're getting so",
+        "§8§oclose!",
+        "§r",
+        "§5§lEPIC MATERIAL"
+      ]
     },
     "glowCondition": {
-      "fixedValue": true
+      "fixedValue": false
     },
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

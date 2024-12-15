@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass_pane"
+    },
+    "b": {
+      "item": "minecraft:cyan_stained_glass_pane"
+    },
+    "c": {
+      "item": "komik:plasticpolymers"
+    },
+    "d": {
+      "item": "komik:silver"
+    },
+    "e": {
+      "item": "komik:silicon"
+    }
+  },
+  "result": {
+    "item": "komik:solarcell",
+    "count": 3
+  }
+}

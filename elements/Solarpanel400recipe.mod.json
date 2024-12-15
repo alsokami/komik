@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "komik",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bigsolarcell"
+      },
+      {
+        "value": "CUSTOM:Bigsolarcell"
+      },
+      {
+        "value": "CUSTOM:Bigsolarcell"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      },
+      {
+        "value": "CUSTOM:Silver"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Solarpanel400w"
+    },
+    "name": "solarpanel_400recipe",
+    "namespace": "mod"
+  }
+}

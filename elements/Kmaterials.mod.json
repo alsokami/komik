@@ -2,10 +2,10 @@
   "_fv": 69,
   "_type": "tab",
   "definition": {
-    "name": "Katerials",
+    "name": "K Materials",
     "icon": {
-      "value": "CUSTOM:Silicon"
+      "value": "CUSTOM:Microplastics"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }

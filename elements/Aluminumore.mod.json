@@ -2,15 +2,15 @@
   "_fv": 69,
   "_type": "block",
   "definition": {
-    "texture": "aluminumore",
-    "textureTop": "aluminumore",
-    "textureLeft": "aluminumore",
-    "textureFront": "aluminumore",
-    "textureRight": "aluminumore",
-    "textureBack": "aluminumore",
+    "texture": "aluminumore1",
+    "textureTop": "aluminumore1",
+    "textureLeft": "aluminumore1",
+    "textureFront": "aluminumore2",
+    "textureRight": "aluminumore1",
+    "textureBack": "aluminumore2",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -36,27 +36,35 @@
     "customProperties": [],
     "name": "Aluminum Ore",
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7An ore that drops",
+        "§7raw aluminum.",
+        "§8§oHow do you keep",
+        "§8§ogetting your hands on",
+        "§8§oraw ore?",
+        "§r",
+        "§f§lVERY COMMON MINERAL ORE"
+      ]
     },
-    "hardness": 2.3499999999999996,
-    "resistance": 7.5,
+    "hardness": 2.8,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTabs": [
       {
-        "value": "CUSTOM:Kmaterials"
+        "value": "CUSTOM:Kminerals"
       }
     ],
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Aluminum"
+      "value": ""
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": true,
     "requiresCorrectTool": true,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
-    "canRedstoneConnect": false,
+    "canRedstoneConnect": true,
     "lightOpacity": 15,
     "material": {
       "value": "NONE"
@@ -77,14 +85,14 @@
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
-    "slipperiness": 0.7,
+    "slipperiness": 0.6,
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -122,10 +130,7 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onRightClicked": {
-      "name": "AluminumoreOnBlockRightClicked"
-    },
-    "generateFeature": false,
+    "generateFeature": true,
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
@@ -133,9 +138,9 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 22,
-    "frequencyOnChunk": 12,
-    "minGenerateHeight": -5,
-    "maxGenerateHeight": 129
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 7,
+    "minGenerateHeight": -30,
+    "maxGenerateHeight": 64
   }
 }

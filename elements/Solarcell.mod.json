@@ -3,18 +3,18 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "solcarcelltexture",
+    "texture": "solarcell",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
     "name": "Solar Cell",
-    "rarity": "UNCOMMON",
+    "rarity": "COMMON",
     "creativeTabs": [
       {
         "value": "CUSTOM:Kmaterials"
       }
     ],
-    "stackSize": 12,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
@@ -29,7 +29,15 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7A photovoltaic cell",
+        "§7made from silica, ",
+        "§7silver and aluminum.",
+        "§7Used for making big",
+        "§7solar cells.",
+        "§r",
+        "§5§lEPIC MATERIAL"
+      ]
     },
     "glowCondition": {
       "fixedValue": false

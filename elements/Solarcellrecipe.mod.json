@@ -4,11 +4,11 @@
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 3,
-    "group": "solar_cell",
+    "group": "komik",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "craftingBookCategory": "REDSTONE",
+    "craftingBookCategory": "BUILDING",
     "recipeShapeless": false,
     "recipeSlots": [
       {
@@ -21,22 +21,22 @@
         "value": "Blocks.GLASS_PANE"
       },
       {
-        "value": "CUSTOM:Silicon"
+        "value": "CUSTOM:Plasticpolymers"
+      },
+      {
+        "value": "CUSTOM:Silver"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymers"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymers"
       },
       {
         "value": "CUSTOM:Silicon"
       },
       {
-        "value": "CUSTOM:Silicon"
-      },
-      {
-        "value": "CUSTOM:Aluminum"
-      },
-      {
-        "value": "Items.COPPER_INGOT"
-      },
-      {
-        "value": "CUSTOM:Aluminum"
+        "value": "CUSTOM:Plasticpolymers"
       }
     ],
     "recipeReturnStack": {

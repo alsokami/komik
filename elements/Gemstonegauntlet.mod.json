@@ -1,0 +1,54 @@
+{
+  "_fv": 69,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "gemstone_gauntlet-removebg-preview",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "§6Gemstone Gauntet",
+    "specialInformation": {
+      "fixedValue": [
+        "§8Breaking Power 8",
+        "§r",
+        "§7Damage: §c+300",
+        "§7Strength: §c+50",
+        "§7Mining Speed: §a+800",
+        "§8[§7☘§8][§7⸕§8][§7✧§8][§7✎§8][§7❈§8]",
+        "§r",
+        "§7This heavily inspired item",
+        "§7which is not Komik's creation",
+        "§7is the best you are getting for",
+        "§7early late game mining.",
+        "§8§oDoes it get any better than",
+        "§8§othis?!",
+        "§r",
+        "§6§lLEGENDARY GAUNTLET"
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      },
+      {
+        "value": "CUSTOM:Ktools"
+      }
+    ],
+    "efficiency": 50.0,
+    "attackSpeed": 1.0,
+    "enchantability": 23,
+    "damageVsEntity": 310.0,
+    "usageCount": 0,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

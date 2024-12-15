@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "silicon-raw",
+    "texture": "silicon",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
@@ -11,7 +11,7 @@
     "rarity": "COMMON",
     "creativeTabs": [
       {
-        "value": "CUSTOM:Kmaterials"
+        "value": "CUSTOM:Kminerals"
       }
     ],
     "stackSize": 64,
@@ -23,13 +23,23 @@
       "value": ""
     },
     "destroyAnyBlock": false,
-    "immuneToFire": true,
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "§7A not very common",
+        "§7abundant ore used for",
+        "§7machinery and CPUs.",
+        "§8§oThe ultimate miner",
+        "§8§oguild themselves love",
+        "§8§omining silica. It is their",
+        "§8§oeconomy.",
+        "§r",
+        "§f§lCOMMON MINERAL"
+      ]
     },
     "glowCondition": {
       "fixedValue": false
@@ -37,9 +47,6 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedInAir": {
-      "name": "SiliconRightclicked"
-    },
     "enableRanged": false,
     "shootConstantly": false,
     "rangedItemChargesPower": false,

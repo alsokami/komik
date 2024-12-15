@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "komik",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "aca",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "c": {
+      "item": "komik:wrench"
+    },
+    "d": {
+      "item": "minecraft:hopper"
+    },
+    "e": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "komik:ore_washer",
+    "count": 1
+  }
+}

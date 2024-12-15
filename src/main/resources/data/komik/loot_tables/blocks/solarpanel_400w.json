@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "komik:blocks/solarpanel_400w",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "komik:bigsolarcell",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
