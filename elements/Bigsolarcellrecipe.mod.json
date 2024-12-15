@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "komik",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Solarcell"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymers"
+      },
+      {
+        "value": "CUSTOM:Silicon"
+      },
+      {
+        "value": "CUSTOM:Plasticpolymers"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      },
+      {
+        "value": "CUSTOM:Aluminum"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bigsolarcell"
+    },
+    "name": "bigsolarcellrecipe",
+    "namespace": "mod"
+  }
+}
